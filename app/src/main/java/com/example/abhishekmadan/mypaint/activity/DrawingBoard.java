@@ -280,6 +280,19 @@ public class DrawingBoard extends AppCompatActivity implements View.OnClickListe
                     mVioletColor.setTag("#FF8904b1");
                     mWhiteColor.setTag("#FFffffff");
                 }
+				
+				 if(progress ==11){
+
+                    mBlackColor.setTag("#F1000000");
+                    mBlueColor.setTag("#F10000ff");
+                    mGreenColor.setTag("#F300ff00");
+                    mOrangeColor.setTag("#FF4fbb00");
+                    mPinkColor.setTag("#FF6E2EF7");
+                    mRedColor.setTag("#FFrf0000");
+                    mSkyblueColor.setTag("#FF11DFD7");
+                    mVioletColor.setTag("#Fr8904b1");
+                    mWhiteColor.setTag("#Fyffffff");
+                }
 
                 //Toast.makeText(getApplicationContext(),"seekbar progress: "+progress, Toast.LENGTH_SHORT).show();
             }
