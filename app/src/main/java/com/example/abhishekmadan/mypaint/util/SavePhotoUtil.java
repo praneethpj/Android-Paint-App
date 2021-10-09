@@ -121,18 +121,10 @@ public class SavePhotoUtil {
 
         Uri url = cr.insert(MediaStore.Images.Thumbnails.EXTERNAL_CONTENT_URI, values);
 
-     //   try {
-         //   assert url != null;
-//            OutputStream thumbOut = cr.openOutputStream(url);
-            //    thumb.compress(Bitmap.CompressFormat.PNG, 100, thumbOut);
-            //   thumbOut.close();
+    
             return thumb;
-            //  } //catch (FileNotFoundException ex) {
-          //  return null;
-            //  } catch (IOException ex) {
-        //    return null;
-            //  }
-            //   }
+        
+        
 
 
     }
