@@ -5,14 +5,14 @@
             <item>
                 <shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
                     <corners android:radius="5dp" />
-                    <stroke android:width="2dp" android:color="#848484" />
+                    <stroke android:width="2dp" android:color="#848481" />
                     <solid android:color="#848484" />
                 </shape>
             </item>
             <item android:bottom="5dp">
                 <shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
                     <corners android:radius="5dp" />
-                    <stroke android:width="2dp" android:color="#848484" />
+                    <stroke android:width="2dp" android:color="#848482" />
                     <solid android:color="#848484" />
                 </shape>
             </item>
@@ -23,7 +23,7 @@
             <item>
                 <shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
                     <corners android:radius="5dp" />
-                    <stroke android:width="2dp" android:color="#848484" />
+                    <stroke android:width="2dp" android:color="#848485" />
                     <solid android:color="#848484" />
                 </shape>
             </item>
