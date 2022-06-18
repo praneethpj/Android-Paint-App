@@ -46,5 +46,8 @@ public class Constants {
 
     public static final int RESULT_LOAD_IMAGE = 100;
 
+    public static final int RESULT_LOAD_IMAGE1 = 200;
+    public static final int RESULT_LOAD_IMAGE2 = 200;
+
 
 }
